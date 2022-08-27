@@ -32,9 +32,6 @@ My name is **Harsh** & I am a **Frontend Developer** at **@Dapplooker**  Buildin
 </h1>
 
 <br/>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshrjjpt" alt="harshrjjpt" /></a> </p>
-
-<br/>
 
 ## 📈 Stats
 
