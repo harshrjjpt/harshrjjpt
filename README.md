@@ -1,12 +1,6 @@
 <h3 align="center">
-  Hi, I am Harsh ! Glad to see you here ! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif"  height="29px"> 
+  Hello, I am Harsh ! Glad to see you here ! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif"  height="29px"> 
 </h3>
-
-<p align="center">
-  
-   
-
-</p>
 
 <br />
 
@@ -23,10 +17,7 @@ My name is **Harsh** & I am a **Frontend Developer** at **@Dapplooker**  Buildin
 
 </h1>
 
-
 <br/>
-
-
 
 ## 📈 Stats
 
@@ -35,6 +26,3 @@ My name is **Harsh** & I am a **Frontend Developer** at **@Dapplooker**  Buildin
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=harshrjjpt&show_icons=true&theme=dracula" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=harshrjjpt&theme=dracula" />
 </p>
-
-<br />
-
