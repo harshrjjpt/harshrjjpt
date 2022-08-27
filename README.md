@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About Me 
 
-My name is **Harsh** & I am a **Frontend Developer** .
+My name is **Harsh** & I am a **Frontend Developer** at **@Dapplooker**  Building data driven **#web3**  📊 📈 .
 
 <h1 align = "center">
   
