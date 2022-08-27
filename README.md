@@ -4,7 +4,7 @@
 
 <p align="center">
   
-   <img src="https://readme-typing-svg.herokuapp.com/?color=%23E22FE4&center=true&width=300&height=45&lines=Open+Source;Cloud+Native;DevRel+;Learning+Kubernete;Empowering+Others;Nice+to+meet+you+...">
+   
 
 </p>
 
