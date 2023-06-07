@@ -6,7 +6,7 @@
 
 ## 👨‍💻 About Me 
 
-My name is **Harsh** & I am a **Frontend Developer** at **@Dapplooker**  Building data driven **#web3**  📊 📈.I'm a driven individual who is eager to learn new technologies in order to advance daily. In order to learn more about various technologies and make a major contribution to the industry, I'm seeking for challenging possibilities in the IT sector. React Js, Redux, Angular, Bootstrap, and other programming languages and frameworks are a few things I have experience with.
+My name is **Harsh** & I am a **Frontend Engineer** at **@Dapplooker**  Building data driven **#web3**  📊 📈.I'm a driven individual who is eager to learn new technologies in order to advance daily. In order to learn more about various technologies and make a major contribution to the industry, I'm seeking for challenging possibilities in the IT sector. React Js, Redux, Angular, Bootstrap, and other programming languages and frameworks are a few things I have experience with.
 
 <h1 align = "center">
   
