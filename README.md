@@ -1,12 +1,7 @@
-<h3 align="center">
-  Hello, I am Harsh ! Glad to see you here ! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif"  height="29px"> 
+<h3 align="left">
+  Hello! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif"  height="29px"> 
 </h3
 
-<br />
-
-## 👨‍💻 About Me 
-
-Hi!
 
 <h1 align = "center">
   
