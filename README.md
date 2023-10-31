@@ -6,7 +6,7 @@
 
 ## 👨‍💻 About Me 
 
-Im a **Frontend Blockchain Engineer** at **@Dapplooker**  Building data driven **#web3**  📊 📈.I'm a driven individual who is eager to learn new technologies in order to advance daily. In order to learn more about various technologies and make a major contribution to the industry, I'm seeking for challenging possibilities in the IT sector. React Js, web3js, Redux, Angular, Bootstrap, and other programming languages and frameworks are a few things I have experience with.
+Hi!
 
 <h1 align = "center">
   
