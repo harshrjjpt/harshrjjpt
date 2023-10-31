@@ -1,3 +1,7 @@
+### Hi there! 👋 
+
+My name is Harsh Rajput and I'm a Frontend Blockchain Engineer. 
+
 <h3 align="left">
   Hello! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif"  height="29px"> 
 </h3
