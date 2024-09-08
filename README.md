@@ -1,6 +1,6 @@
 ### Hi there! 👋 
 
-My name is Harsh Rajput and I'm a Frontend Blockchain Engineer. 
+My name is Harsh Rajput currently working as an engineer at Dapplooker.
   
   <a href="https://twitter.com/harshrjjpt" target="_blank"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
 </a> <a href="https://www.linkedin.com/in/harshrjjpt" target="_blank"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
